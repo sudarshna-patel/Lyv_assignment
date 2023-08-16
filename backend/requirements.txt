@@ -1,0 +1,6 @@
+celery==5.3.1
+fastapi==0.101.1
+numpy==1.22.1
+pandas==1.4.1
+pydantic==2.1.1
+SQLAlchemy==2.0.20
