@@ -19,4 +19,9 @@ npm install
 
 npm start
 
+# For Docker
+docker-compose build
+
+docker-compose up
+
 Note: This app doesn't use ML model instead it generates synthetic timeseries data. I used the sine function to simulate the daily and seasonal variations.
