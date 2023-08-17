@@ -14,7 +14,9 @@ cd backend
 
 # In a third terminal, navigate to the frontend directory and start the React.js frontend
 cd frontend
+
 npm install
+
 npm start
 
 Note: This app doesn't use ML model instead it generates synthetic timeseries data. I used the sine function to simulate the daily and seasonal variations.
